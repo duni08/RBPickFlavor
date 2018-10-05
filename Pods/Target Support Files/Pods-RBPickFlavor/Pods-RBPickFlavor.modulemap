@@ -1,0 +1,6 @@
+module Pods_RBPickFlavor {
+  umbrella header "Pods-RBPickFlavor-umbrella.h"
+
+  export *
+  module * { export * }
+}
